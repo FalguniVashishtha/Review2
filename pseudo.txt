@@ -1,0 +1,12 @@
+first set a count to 0
+then
+initilaize the loop with 5
+then check condiiton number is divible by i is greter or equal to 1
+if true
+then 
+increase count = count+n/i
+then 
+increse the i= i*5
+then 
+return count
+
